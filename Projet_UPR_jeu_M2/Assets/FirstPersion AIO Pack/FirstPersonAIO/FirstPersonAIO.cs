@@ -718,7 +718,9 @@ public class FirstPersonAIO : MonoBehaviour {
         #endregion
     }
 
- 
+    public void ActivateCameraShake(float Duration, float Magnitude){
+        StartCoroutine(CameraShake(Duration, Magnitude));
+    } 
 
     public IEnumerator CameraShake(float Duration, float Magnitude){
         float elapsed =0;
