@@ -53,7 +53,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
-    <Compile Include="Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
@@ -116,7 +115,7 @@
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.hlsl" />
      <None Include="Assets\SineVFX\TranslucentCrystals\Resources\Shaders\SkyboxProceduralDesaturated.shader" />
      <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\GrainGen.shader" />
-     <None Include="Assets\FirstPersion AIO Pack\DemoScene\Working Materials\GlassBumpedDistort.shader" />
+     <None Include="Assets\FirstPersion AIO Pack\Working Materials\GlassBumpedDistort.shader" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Texture3DLerp.compute" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DeferredFog.shader" />
      <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
