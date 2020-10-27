@@ -56,6 +56,8 @@
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs" />
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\TestTestTest.cs" />
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\LaunchCameraShake.cs" />
+    <Compile Include="Assets\Winter Zone Mini 1.0\Scripts\EmitterPositionController.cs" />
+    <Compile Include="Assets\Winter Zone Mini 1.0\Scripts\FXDemoController.cs" />
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\PickableObject.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -120,6 +122,7 @@
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVODownsample1.compute" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Fog.hlsl" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.compute" />
+     <None Include="Assets\Winter Zone Mini 1.0\readme.txt" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GrainBaker.shader" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GaussianDownsample.compute" />
      <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScreenSpaceReflections.hlsl" />
